@@ -16,27 +16,67 @@
         "documentation": {}
     },
     {
-        "label": "PromptTemplate",
-        "importPath": "langchain_core.prompts",
-        "description": "langchain_core.prompts",
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
         "isExtraImport": true,
-        "detail": "langchain_core.prompts",
+        "detail": "dotenv",
         "documentation": {}
     },
     {
-        "label": "PromptTemplate",
-        "importPath": "langchain_core.prompts",
-        "description": "langchain_core.prompts",
+        "label": "SystemMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
         "isExtraImport": true,
-        "detail": "langchain_core.prompts",
+        "detail": "langchain_core.messages",
         "documentation": {}
     },
     {
-        "label": "PromptTemplate",
-        "importPath": "langchain_core.prompts",
-        "description": "langchain_core.prompts",
+        "label": "HumanMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
         "isExtraImport": true,
-        "detail": "langchain_core.prompts",
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "AIMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "SystemMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "HumanMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "AIMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
         "documentation": {}
     },
     {
@@ -80,11 +120,27 @@
         "documentation": {}
     },
     {
+        "label": "PromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "PromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
         "label": "model",
         "kind": 5,
         "importPath": "chatbot",
         "description": "chatbot",
-        "peekOfCode": "model = ChatGoogleGenerativeAI(model=\"gemini-2.5-flash\")\nchats = []\nwhile True:\n    prompt = input(\"You: \")\n    if prompt == \"exit\":\n        break\n    chats.append(f\"You: {prompt}\")\n    result = model.invoke(chats)\n    chats.append(f\"AI: {result.content}\")\n    print(\"Response:\", result.content)",
+        "peekOfCode": "model = ChatGoogleGenerativeAI(model=\"gemini-2.5-flash\")\nchats = [\n    SystemMessage(\n        content=\"You are a senior software developer with expertise in Python and JavaScript. You have experience working on large-scale projects and are skilled in problem-solving and debugging.\"\n    ),\n]\nwhile True:\n    prompt = input(\"You: \")\n    if prompt == \"exit\":\n        break",
         "detail": "chatbot",
         "documentation": {}
     },
@@ -93,8 +149,35 @@
         "kind": 5,
         "importPath": "chatbot",
         "description": "chatbot",
-        "peekOfCode": "chats = []\nwhile True:\n    prompt = input(\"You: \")\n    if prompt == \"exit\":\n        break\n    chats.append(f\"You: {prompt}\")\n    result = model.invoke(chats)\n    chats.append(f\"AI: {result.content}\")\n    print(\"Response:\", result.content)\nprint(chats)",
+        "peekOfCode": "chats = [\n    SystemMessage(\n        content=\"You are a senior software developer with expertise in Python and JavaScript. You have experience working on large-scale projects and are skilled in problem-solving and debugging.\"\n    ),\n]\nwhile True:\n    prompt = input(\"You: \")\n    if prompt == \"exit\":\n        break\n    chats.append(HumanMessage(content=prompt))",
         "detail": "chatbot",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "messages",
+        "description": "messages",
+        "peekOfCode": "model = ChatGoogleGenerativeAI(model=\"gemini-2.5-flash\")\nchats = [\n    SystemMessage(content=\"You are a helpful assistant.\"),\n    HumanMessage(content=\"What is the capital of France?\"),\n]\nresult = model.invoke(chats)\nchats.append(AIMessage(content=result.content))\nprint(chats)",
+        "detail": "messages",
+        "documentation": {}
+    },
+    {
+        "label": "chats",
+        "kind": 5,
+        "importPath": "messages",
+        "description": "messages",
+        "peekOfCode": "chats = [\n    SystemMessage(content=\"You are a helpful assistant.\"),\n    HumanMessage(content=\"What is the capital of France?\"),\n]\nresult = model.invoke(chats)\nchats.append(AIMessage(content=result.content))\nprint(chats)",
+        "detail": "messages",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "kind": 5,
+        "importPath": "messages",
+        "description": "messages",
+        "peekOfCode": "result = model.invoke(chats)\nchats.append(AIMessage(content=result.content))\nprint(chats)",
+        "detail": "messages",
         "documentation": {}
     },
     {
