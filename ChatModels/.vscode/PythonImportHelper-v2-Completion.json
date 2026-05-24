@@ -1,0 +1,137 @@
+[
+    {
+        "label": "ChatOpenAI",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatHuggingFace",
+        "importPath": "langchain_huggingface",
+        "description": "langchain_huggingface",
+        "isExtraImport": true,
+        "detail": "langchain_huggingface",
+        "documentation": {}
+    },
+    {
+        "label": "HuggingFaceEndpoint",
+        "importPath": "langchain_huggingface",
+        "description": "langchain_huggingface",
+        "isExtraImport": true,
+        "detail": "langchain_huggingface",
+        "documentation": {}
+    },
+    {
+        "label": "ChatHuggingFace",
+        "importPath": "langchain_huggingface",
+        "description": "langchain_huggingface",
+        "isExtraImport": true,
+        "detail": "langchain_huggingface",
+        "documentation": {}
+    },
+    {
+        "label": "HuggingFacePipeline",
+        "importPath": "langchain_huggingface",
+        "description": "langchain_huggingface",
+        "isExtraImport": true,
+        "detail": "langchain_huggingface",
+        "documentation": {}
+    },
+    {
+        "label": "llm",
+        "kind": 5,
+        "importPath": "close source.01_openai",
+        "description": "close source.01_openai",
+        "peekOfCode": "llm = ChatOpenAI(model=\"gpt-3.5-turbo\")\nresult = llm.invoke(\"Tell me a joke\")\nprint(result.content)",
+        "detail": "close source.01_openai",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "kind": 5,
+        "importPath": "close source.01_openai",
+        "description": "close source.01_openai",
+        "peekOfCode": "result = llm.invoke(\"Tell me a joke\")\nprint(result.content)",
+        "detail": "close source.01_openai",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "close source.02_gemini",
+        "description": "close source.02_gemini",
+        "peekOfCode": "model = ChatGoogleGenerativeAI(model=\"gemini-2.5-flash\")\nresult = model.invoke(\"Tell me a 5 most famous and good movie of 2026\")\nprint(result.content)",
+        "detail": "close source.02_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "kind": 5,
+        "importPath": "close source.02_gemini",
+        "description": "close source.02_gemini",
+        "peekOfCode": "result = model.invoke(\"Tell me a 5 most famous and good movie of 2026\")\nprint(result.content)",
+        "detail": "close source.02_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "llm",
+        "kind": 5,
+        "importPath": "OpenSource.01_hf_api",
+        "description": "OpenSource.01_hf_api",
+        "peekOfCode": "llm = HuggingFaceEndpoint(\n    repo_id=\"meta-llama/Llama-3.2-3B-Instruct\",\n    task=\"text-generation\",\n    # HUGGINGFACEHUB_ACCESS_TOKEN=os.getenv(\"HUGGINGFACEHUB_API_TOKEN\"),\n)\nchat_model = ChatHuggingFace(llm=llm)\nresult = chat_model.invoke(\"What is the capital of Nepal?\")\nprint(result.content)",
+        "detail": "OpenSource.01_hf_api",
+        "documentation": {}
+    },
+    {
+        "label": "chat_model",
+        "kind": 5,
+        "importPath": "OpenSource.01_hf_api",
+        "description": "OpenSource.01_hf_api",
+        "peekOfCode": "chat_model = ChatHuggingFace(llm=llm)\nresult = chat_model.invoke(\"What is the capital of Nepal?\")\nprint(result.content)",
+        "detail": "OpenSource.01_hf_api",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "kind": 5,
+        "importPath": "OpenSource.01_hf_api",
+        "description": "OpenSource.01_hf_api",
+        "peekOfCode": "result = chat_model.invoke(\"What is the capital of Nepal?\")\nprint(result.content)",
+        "detail": "OpenSource.01_hf_api",
+        "documentation": {}
+    }
+]

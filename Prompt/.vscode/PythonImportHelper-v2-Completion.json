@@ -1,0 +1,145 @@
+[
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "PromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "PromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "PromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "chatbot",
+        "description": "chatbot",
+        "peekOfCode": "model = ChatGoogleGenerativeAI(model=\"gemini-2.5-flash\")\nchats = []\nwhile True:\n    prompt = input(\"You: \")\n    if prompt == \"exit\":\n        break\n    chats.append(f\"You: {prompt}\")\n    result = model.invoke(chats)\n    chats.append(f\"AI: {result.content}\")\n    print(\"Response:\", result.content)",
+        "detail": "chatbot",
+        "documentation": {}
+    },
+    {
+        "label": "chats",
+        "kind": 5,
+        "importPath": "chatbot",
+        "description": "chatbot",
+        "peekOfCode": "chats = []\nwhile True:\n    prompt = input(\"You: \")\n    if prompt == \"exit\":\n        break\n    chats.append(f\"You: {prompt}\")\n    result = model.invoke(chats)\n    chats.append(f\"AI: {result.content}\")\n    print(\"Response:\", result.content)\nprint(chats)",
+        "detail": "chatbot",
+        "documentation": {}
+    },
+    {
+        "label": "PromptRequest",
+        "kind": 6,
+        "importPath": "prompt",
+        "description": "prompt",
+        "peekOfCode": "class PromptRequest(BaseModel):\n    topic: str\n    level: str\n    question: str\n@app.post(\"/\")\ndef promptResult(body: PromptRequest):\n    model = ChatGoogleGenerativeAI(model=\"gemini-2.5-flash\")\n    prompt = prompt_template.format(\n        topic=body.topic,\n        level=body.level,",
+        "detail": "prompt",
+        "documentation": {}
+    },
+    {
+        "label": "promptResult",
+        "kind": 2,
+        "importPath": "prompt",
+        "description": "prompt",
+        "peekOfCode": "def promptResult(body: PromptRequest):\n    model = ChatGoogleGenerativeAI(model=\"gemini-2.5-flash\")\n    prompt = prompt_template.format(\n        topic=body.topic,\n        level=body.level,\n        question=body.question,\n    )\n    result = model.invoke(prompt)\n    return {\"summary\": result.content}",
+        "detail": "prompt",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "prompt",
+        "description": "prompt",
+        "peekOfCode": "app = FastAPI()\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"*\"],\n    allow_credentials=False,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],\n)\nprompt_template = PromptTemplate(\n    input_variables=[\"topic\", \"level\", \"question\"],",
+        "detail": "prompt",
+        "documentation": {}
+    },
+    {
+        "label": "prompt_template",
+        "kind": 5,
+        "importPath": "prompt",
+        "description": "prompt",
+        "peekOfCode": "prompt_template = PromptTemplate(\n    input_variables=[\"topic\", \"level\", \"question\"],\n    template=\"Explain the topic: {topic}\\n\\nDifficulty Level: {level}\\n\\nQuestion: {question}\",\n)\nclass PromptRequest(BaseModel):\n    topic: str\n    level: str\n    question: str\n@app.post(\"/\")\ndef promptResult(body: PromptRequest):",
+        "detail": "prompt",
+        "documentation": {}
+    },
+    {
+        "label": "prompt",
+        "kind": 5,
+        "importPath": "template",
+        "description": "template",
+        "peekOfCode": "prompt = PromptTemplate(\n    input_variables=[\"topic\", \"level\", \"question\"],\n    template=\"\"\"\nExplain the topic: {topic}\nDifficulty Level:\n{level}\nQuestion:\n{question}\n\"\"\",\n)",
+        "detail": "template",
+        "documentation": {}
+    }
+]
