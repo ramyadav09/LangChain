@@ -48,6 +48,54 @@
         "documentation": {}
     },
     {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
         "label": "ChatGoogleGenerativeAI",
         "importPath": "langchain_google_genai",
         "description": "langchain_google_genai",
@@ -88,11 +136,163 @@
         "documentation": {}
     },
     {
+        "label": "SystemMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "HumanMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "AIMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "SystemMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "HumanMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "AIMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "SystemMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "HumanMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "AIMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "SystemMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "HumanMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "AIMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "ChatPromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "ChatPromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "MessagesPlaceholder",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "PromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "PromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
         "label": "FastAPI",
         "importPath": "fastapi",
         "description": "fastapi",
         "isExtraImport": true,
         "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
         "documentation": {}
     },
     {
@@ -177,11 +377,110 @@
         "documentation": {}
     },
     {
+        "label": "model",
+        "kind": 5,
+        "importPath": "Prompt.chatbot",
+        "description": "Prompt.chatbot",
+        "peekOfCode": "model = ChatGoogleGenerativeAI(model=\"gemini-2.5-flash\")\nchats = [\n    SystemMessage(\n        content=\"You are a senior software developer with expertise in Python and JavaScript. You have experience working on large-scale projects and are skilled in problem-solving and debugging.\"\n    ),\n]\nwhile True:\n    prompt = input(\"You: \")\n    if prompt == \"exit\":\n        break",
+        "detail": "Prompt.chatbot",
+        "documentation": {}
+    },
+    {
+        "label": "chats",
+        "kind": 5,
+        "importPath": "Prompt.chatbot",
+        "description": "Prompt.chatbot",
+        "peekOfCode": "chats = [\n    SystemMessage(\n        content=\"You are a senior software developer with expertise in Python and JavaScript. You have experience working on large-scale projects and are skilled in problem-solving and debugging.\"\n    ),\n]\nwhile True:\n    prompt = input(\"You: \")\n    if prompt == \"exit\":\n        break\n    chats.append(HumanMessage(content=prompt))",
+        "detail": "Prompt.chatbot",
+        "documentation": {}
+    },
+    {
+        "label": "chat_template",
+        "kind": 5,
+        "importPath": "Prompt.chat_template",
+        "description": "Prompt.chat_template",
+        "peekOfCode": "chat_template = ChatPromptTemplate(\n    [\n        (\"system\", \"You are a helpful {domain} agent\"),\n        (\"human\", \"Explain in simple terms, what is {topic}\"),\n    ]\n)\nprompt = chat_template.invoke({\"domain\": \"cricket\", \"topic\": \"Dusra\"})\nprint(prompt)",
+        "detail": "Prompt.chat_template",
+        "documentation": {}
+    },
+    {
+        "label": "prompt",
+        "kind": 5,
+        "importPath": "Prompt.chat_template",
+        "description": "Prompt.chat_template",
+        "peekOfCode": "prompt = chat_template.invoke({\"domain\": \"cricket\", \"topic\": \"Dusra\"})\nprint(prompt)",
+        "detail": "Prompt.chat_template",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "Prompt.messages",
+        "description": "Prompt.messages",
+        "peekOfCode": "model = ChatGoogleGenerativeAI(model=\"gemini-2.5-flash\")\nchats = [\n    SystemMessage(content=\"You are a helpful assistant.\"),\n    HumanMessage(content=\"What is the capital of France?\"),\n]\nresult = model.invoke(chats)\nchats.append(AIMessage(content=result.content))\nprint(chats)",
+        "detail": "Prompt.messages",
+        "documentation": {}
+    },
+    {
+        "label": "chats",
+        "kind": 5,
+        "importPath": "Prompt.messages",
+        "description": "Prompt.messages",
+        "peekOfCode": "chats = [\n    SystemMessage(content=\"You are a helpful assistant.\"),\n    HumanMessage(content=\"What is the capital of France?\"),\n]\nresult = model.invoke(chats)\nchats.append(AIMessage(content=result.content))\nprint(chats)",
+        "detail": "Prompt.messages",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "kind": 5,
+        "importPath": "Prompt.messages",
+        "description": "Prompt.messages",
+        "peekOfCode": "result = model.invoke(chats)\nchats.append(AIMessage(content=result.content))\nprint(chats)",
+        "detail": "Prompt.messages",
+        "documentation": {}
+    },
+    {
+        "label": "chat_template",
+        "kind": 5,
+        "importPath": "Prompt.msg_placeholder",
+        "description": "Prompt.msg_placeholder",
+        "peekOfCode": "chat_template = ChatPromptTemplate(\n    [\n        (\"system\", \"You are a helpful {domain} agent\"),\n        MessagesPlaceholder(variable_name=\"chat_history\"),\n        (\"human\", \"Explain in simple terms, what is {topic}\"),\n    ]\n)\nchat_history = []\nwith open(\"chat_history.txt\") as f:\n    chat_history.append(HumanMessage(content=f.read()))",
+        "detail": "Prompt.msg_placeholder",
+        "documentation": {}
+    },
+    {
+        "label": "chat_history",
+        "kind": 5,
+        "importPath": "Prompt.msg_placeholder",
+        "description": "Prompt.msg_placeholder",
+        "peekOfCode": "chat_history = []\nwith open(\"chat_history.txt\") as f:\n    chat_history.append(HumanMessage(content=f.read()))\nprompt = chat_template.invoke(\n    {\"domain\": \"cricket\", \"topic\": \"Dusra\", \"chat_history\": chat_history}\n)\nprint(prompt)",
+        "detail": "Prompt.msg_placeholder",
+        "documentation": {}
+    },
+    {
+        "label": "prompt",
+        "kind": 5,
+        "importPath": "Prompt.msg_placeholder",
+        "description": "Prompt.msg_placeholder",
+        "peekOfCode": "prompt = chat_template.invoke(\n    {\"domain\": \"cricket\", \"topic\": \"Dusra\", \"chat_history\": chat_history}\n)\nprint(prompt)",
+        "detail": "Prompt.msg_placeholder",
+        "documentation": {}
+    },
+    {
+        "label": "PromptRequest",
+        "kind": 6,
+        "importPath": "Prompt.prompt",
+        "description": "Prompt.prompt",
+        "peekOfCode": "class PromptRequest(BaseModel):\n    topic: str\n    level: str\n    question: str\n@app.post(\"/\")\ndef promptResult(body: PromptRequest):\n    model = ChatGoogleGenerativeAI(model=\"gemini-2.5-flash\")\n    prompt = prompt_template.format(\n        topic=body.topic,\n        level=body.level,",
+        "detail": "Prompt.prompt",
+        "documentation": {}
+    },
+    {
         "label": "promptResult",
         "kind": 2,
         "importPath": "Prompt.prompt",
         "description": "Prompt.prompt",
-        "peekOfCode": "def promptResult(prompt: str):\n    result = \n    return {\"result\": result.content}",
+        "peekOfCode": "def promptResult(body: PromptRequest):\n    model = ChatGoogleGenerativeAI(model=\"gemini-2.5-flash\")\n    prompt = prompt_template.format(\n        topic=body.topic,\n        level=body.level,\n        question=body.question,\n    )\n    result = model.invoke(prompt)\n    return {\"summary\": result.content}",
         "detail": "Prompt.prompt",
         "documentation": {}
     },
@@ -190,8 +489,26 @@
         "kind": 5,
         "importPath": "Prompt.prompt",
         "description": "Prompt.prompt",
-        "peekOfCode": "app = FastAPI()\n@app.get(\"\")\ndef promptResult(prompt: str):\n    result = \n    return {\"result\": result.content}",
+        "peekOfCode": "app = FastAPI()\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"*\"],\n    allow_credentials=False,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],\n)\nprompt_template = PromptTemplate(\n    input_variables=[\"topic\", \"level\", \"question\"],",
         "detail": "Prompt.prompt",
+        "documentation": {}
+    },
+    {
+        "label": "prompt_template",
+        "kind": 5,
+        "importPath": "Prompt.prompt",
+        "description": "Prompt.prompt",
+        "peekOfCode": "prompt_template = PromptTemplate(\n    input_variables=[\"topic\", \"level\", \"question\"],\n    template=\"Explain the topic: {topic}\\n\\nDifficulty Level: {level}\\n\\nQuestion: {question}\",\n)\nclass PromptRequest(BaseModel):\n    topic: str\n    level: str\n    question: str\n@app.post(\"/\")\ndef promptResult(body: PromptRequest):",
+        "detail": "Prompt.prompt",
+        "documentation": {}
+    },
+    {
+        "label": "prompt",
+        "kind": 5,
+        "importPath": "Prompt.template",
+        "description": "Prompt.template",
+        "peekOfCode": "prompt = PromptTemplate(\n    input_variables=[\"topic\", \"level\", \"question\"],\n    template=\"\"\"\nExplain the topic: {topic}\nDifficulty Level:\n{level}\nQuestion:\n{question}\n\"\"\",\n)",
+        "detail": "Prompt.template",
         "documentation": {}
     }
 ]
