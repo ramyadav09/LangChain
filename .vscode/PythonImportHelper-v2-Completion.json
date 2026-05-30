@@ -72,6 +72,118 @@
         "documentation": {}
     },
     {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
         "label": "ChatGoogleGenerativeAI",
         "importPath": "langchain_google_genai",
         "description": "langchain_google_genai",
@@ -272,6 +384,46 @@
         "documentation": {}
     },
     {
+        "label": "PromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "PromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "PromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "PromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "PromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
         "label": "FastAPI",
         "importPath": "fastapi",
         "description": "fastapi",
@@ -293,6 +445,102 @@
         "description": "pydantic",
         "isExtraImport": true,
         "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "StrOutputParser",
+        "importPath": "langchain_core.output_parsers",
+        "description": "langchain_core.output_parsers",
+        "isExtraImport": true,
+        "detail": "langchain_core.output_parsers",
+        "documentation": {}
+    },
+    {
+        "label": "JsonOutputParser",
+        "importPath": "langchain_core.output_parsers",
+        "description": "langchain_core.output_parsers",
+        "isExtraImport": true,
+        "detail": "langchain_core.output_parsers",
+        "documentation": {}
+    },
+    {
+        "label": "PydanticOutputParser",
+        "importPath": "langchain_core.output_parsers",
+        "description": "langchain_core.output_parsers",
+        "isExtraImport": true,
+        "detail": "langchain_core.output_parsers",
+        "documentation": {}
+    },
+    {
+        "label": "StructuredOutputParser",
+        "importPath": "langchain.output_parsers",
+        "description": "langchain.output_parsers",
+        "isExtraImport": true,
+        "detail": "langchain.output_parsers",
+        "documentation": {}
+    },
+    {
+        "label": "ResponseSchema",
+        "importPath": "langchain.output_parsers",
+        "description": "langchain.output_parsers",
+        "isExtraImport": true,
+        "detail": "langchain.output_parsers",
+        "documentation": {}
+    },
+    {
+        "label": "TypedDict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Annotated",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
         "documentation": {}
     },
     {
@@ -509,6 +757,348 @@
         "description": "Prompt.template",
         "peekOfCode": "prompt = PromptTemplate(\n    input_variables=[\"topic\", \"level\", \"question\"],\n    template=\"\"\"\nExplain the topic: {topic}\nDifficulty Level:\n{level}\nQuestion:\n{question}\n\"\"\",\n)",
         "detail": "Prompt.template",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "Structured_Output.1_stroutputparser",
+        "description": "Structured_Output.1_stroutputparser",
+        "peekOfCode": "model = ChatGoogleGenerativeAI(model=\"gemini-2.5-flash\")\ntemplate1 = PromptTemplate(\n    template=\"write a detailed report on {topic}\", input_variables=[\"topic\"]\n)\ntemplate2 = PromptTemplate(\n    template=\"write 5 lines summary of the report.\\n {text}\", input_variables=[\"text\"]\n)\nparser = StrOutputParser()\nchain = template1 | model | parser | template2 | model | parser\nresult = chain.invoke({\"topic\": \"Artificial Intelligence\"})",
+        "detail": "Structured_Output.1_stroutputparser",
+        "documentation": {}
+    },
+    {
+        "label": "template1",
+        "kind": 5,
+        "importPath": "Structured_Output.1_stroutputparser",
+        "description": "Structured_Output.1_stroutputparser",
+        "peekOfCode": "template1 = PromptTemplate(\n    template=\"write a detailed report on {topic}\", input_variables=[\"topic\"]\n)\ntemplate2 = PromptTemplate(\n    template=\"write 5 lines summary of the report.\\n {text}\", input_variables=[\"text\"]\n)\nparser = StrOutputParser()\nchain = template1 | model | parser | template2 | model | parser\nresult = chain.invoke({\"topic\": \"Artificial Intelligence\"})\nprint(result)",
+        "detail": "Structured_Output.1_stroutputparser",
+        "documentation": {}
+    },
+    {
+        "label": "template2",
+        "kind": 5,
+        "importPath": "Structured_Output.1_stroutputparser",
+        "description": "Structured_Output.1_stroutputparser",
+        "peekOfCode": "template2 = PromptTemplate(\n    template=\"write 5 lines summary of the report.\\n {text}\", input_variables=[\"text\"]\n)\nparser = StrOutputParser()\nchain = template1 | model | parser | template2 | model | parser\nresult = chain.invoke({\"topic\": \"Artificial Intelligence\"})\nprint(result)",
+        "detail": "Structured_Output.1_stroutputparser",
+        "documentation": {}
+    },
+    {
+        "label": "parser",
+        "kind": 5,
+        "importPath": "Structured_Output.1_stroutputparser",
+        "description": "Structured_Output.1_stroutputparser",
+        "peekOfCode": "parser = StrOutputParser()\nchain = template1 | model | parser | template2 | model | parser\nresult = chain.invoke({\"topic\": \"Artificial Intelligence\"})\nprint(result)",
+        "detail": "Structured_Output.1_stroutputparser",
+        "documentation": {}
+    },
+    {
+        "label": "chain",
+        "kind": 5,
+        "importPath": "Structured_Output.1_stroutputparser",
+        "description": "Structured_Output.1_stroutputparser",
+        "peekOfCode": "chain = template1 | model | parser | template2 | model | parser\nresult = chain.invoke({\"topic\": \"Artificial Intelligence\"})\nprint(result)",
+        "detail": "Structured_Output.1_stroutputparser",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "kind": 5,
+        "importPath": "Structured_Output.1_stroutputparser",
+        "description": "Structured_Output.1_stroutputparser",
+        "peekOfCode": "result = chain.invoke({\"topic\": \"Artificial Intelligence\"})\nprint(result)",
+        "detail": "Structured_Output.1_stroutputparser",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "Structured_Output.2_jsonoutputparser",
+        "description": "Structured_Output.2_jsonoutputparser",
+        "peekOfCode": "model = ChatGoogleGenerativeAI(model=\"gemini-2.5-flash\")\nparser = JsonOutputParser()\ntemplate = PromptTemplate(\n    template=\"give me a json format output of a movie with name,year and description when i ask for {topic}\\n{format_instructions}\",\n    input_variables=[\"topic\"],\n    partial_variables={\"format_instructions\": parser.get_format_instructions()},\n)\n# prompt = template.invoke({\"topic\": \"the most famous and good movie of 2026\"})\n# result = model.invoke(prompt)\n# print(result.content)",
+        "detail": "Structured_Output.2_jsonoutputparser",
+        "documentation": {}
+    },
+    {
+        "label": "parser",
+        "kind": 5,
+        "importPath": "Structured_Output.2_jsonoutputparser",
+        "description": "Structured_Output.2_jsonoutputparser",
+        "peekOfCode": "parser = JsonOutputParser()\ntemplate = PromptTemplate(\n    template=\"give me a json format output of a movie with name,year and description when i ask for {topic}\\n{format_instructions}\",\n    input_variables=[\"topic\"],\n    partial_variables={\"format_instructions\": parser.get_format_instructions()},\n)\n# prompt = template.invoke({\"topic\": \"the most famous and good movie of 2026\"})\n# result = model.invoke(prompt)\n# print(result.content)\n# final_result = parser.parse(result.content)",
+        "detail": "Structured_Output.2_jsonoutputparser",
+        "documentation": {}
+    },
+    {
+        "label": "template",
+        "kind": 5,
+        "importPath": "Structured_Output.2_jsonoutputparser",
+        "description": "Structured_Output.2_jsonoutputparser",
+        "peekOfCode": "template = PromptTemplate(\n    template=\"give me a json format output of a movie with name,year and description when i ask for {topic}\\n{format_instructions}\",\n    input_variables=[\"topic\"],\n    partial_variables={\"format_instructions\": parser.get_format_instructions()},\n)\n# prompt = template.invoke({\"topic\": \"the most famous and good movie of 2026\"})\n# result = model.invoke(prompt)\n# print(result.content)\n# final_result = parser.parse(result.content)\n# print(final_result)",
+        "detail": "Structured_Output.2_jsonoutputparser",
+        "documentation": {}
+    },
+    {
+        "label": "chain",
+        "kind": 5,
+        "importPath": "Structured_Output.2_jsonoutputparser",
+        "description": "Structured_Output.2_jsonoutputparser",
+        "peekOfCode": "chain = template | model | parser\nresult = chain.invoke({\"topic\": \"Artificial Intelligence\"})\nprint(result)",
+        "detail": "Structured_Output.2_jsonoutputparser",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "kind": 5,
+        "importPath": "Structured_Output.2_jsonoutputparser",
+        "description": "Structured_Output.2_jsonoutputparser",
+        "peekOfCode": "result = chain.invoke({\"topic\": \"Artificial Intelligence\"})\nprint(result)",
+        "detail": "Structured_Output.2_jsonoutputparser",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "Structured_Output.3_structuredoutputparser",
+        "description": "Structured_Output.3_structuredoutputparser",
+        "peekOfCode": "model = ChatGoogleGenerativeAI(model=\"gemini-2.5-flash\")\nschemas = [\n    ResponseSchema(name=\"name\", description=\"name of the movie\"),\n    ResponseSchema(name=\"year\", description=\"year of release\"),\n    ResponseSchema(name=\"description\", description=\"short movie description\"),\n]\nparser = StructuredOutputParser.from_response_schemas(schemas)\nprompt = PromptTemplate(\n    template=\"\"\"\nProvide information about the movie \"{movie}\".",
+        "detail": "Structured_Output.3_structuredoutputparser",
+        "documentation": {}
+    },
+    {
+        "label": "schemas",
+        "kind": 5,
+        "importPath": "Structured_Output.3_structuredoutputparser",
+        "description": "Structured_Output.3_structuredoutputparser",
+        "peekOfCode": "schemas = [\n    ResponseSchema(name=\"name\", description=\"name of the movie\"),\n    ResponseSchema(name=\"year\", description=\"year of release\"),\n    ResponseSchema(name=\"description\", description=\"short movie description\"),\n]\nparser = StructuredOutputParser.from_response_schemas(schemas)\nprompt = PromptTemplate(\n    template=\"\"\"\nProvide information about the movie \"{movie}\".\n{format_instructions}",
+        "detail": "Structured_Output.3_structuredoutputparser",
+        "documentation": {}
+    },
+    {
+        "label": "parser",
+        "kind": 5,
+        "importPath": "Structured_Output.3_structuredoutputparser",
+        "description": "Structured_Output.3_structuredoutputparser",
+        "peekOfCode": "parser = StructuredOutputParser.from_response_schemas(schemas)\nprompt = PromptTemplate(\n    template=\"\"\"\nProvide information about the movie \"{movie}\".\n{format_instructions}\n\"\"\",\n    input_variables=[\"movie\"],\n    partial_variables={\"format_instructions\": parser.get_format_instructions()},\n)\nchain = prompt | model | parser",
+        "detail": "Structured_Output.3_structuredoutputparser",
+        "documentation": {}
+    },
+    {
+        "label": "prompt",
+        "kind": 5,
+        "importPath": "Structured_Output.3_structuredoutputparser",
+        "description": "Structured_Output.3_structuredoutputparser",
+        "peekOfCode": "prompt = PromptTemplate(\n    template=\"\"\"\nProvide information about the movie \"{movie}\".\n{format_instructions}\n\"\"\",\n    input_variables=[\"movie\"],\n    partial_variables={\"format_instructions\": parser.get_format_instructions()},\n)\nchain = prompt | model | parser\nresult = chain.invoke({\"movie\": \"A.I. Artificial Intelligence\"})",
+        "detail": "Structured_Output.3_structuredoutputparser",
+        "documentation": {}
+    },
+    {
+        "label": "chain",
+        "kind": 5,
+        "importPath": "Structured_Output.3_structuredoutputparser",
+        "description": "Structured_Output.3_structuredoutputparser",
+        "peekOfCode": "chain = prompt | model | parser\nresult = chain.invoke({\"movie\": \"A.I. Artificial Intelligence\"})\nprint(result)",
+        "detail": "Structured_Output.3_structuredoutputparser",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "kind": 5,
+        "importPath": "Structured_Output.3_structuredoutputparser",
+        "description": "Structured_Output.3_structuredoutputparser",
+        "peekOfCode": "result = chain.invoke({\"movie\": \"A.I. Artificial Intelligence\"})\nprint(result)",
+        "detail": "Structured_Output.3_structuredoutputparser",
+        "documentation": {}
+    },
+    {
+        "label": "MovieInfo",
+        "kind": 6,
+        "importPath": "Structured_Output.4_pydanticoutputparser",
+        "description": "Structured_Output.4_pydanticoutputparser",
+        "peekOfCode": "class MovieInfo(BaseModel):\n    name: str\n    year: int\n    description: str\nparser = PydanticOutputParser(pydantic_object=MovieInfo)\nprompt = PromptTemplate(\n    template=\" give details of 3 recently released movies \\n{format_instructions}\",\n    input_variables=[],\n    partial_variables={\"format_instructions\": parser.get_format_instructions()},\n)",
+        "detail": "Structured_Output.4_pydanticoutputparser",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "Structured_Output.4_pydanticoutputparser",
+        "description": "Structured_Output.4_pydanticoutputparser",
+        "peekOfCode": "model = ChatGoogleGenerativeAI(model=\"gemini-2.5-flash\")\nclass MovieInfo(BaseModel):\n    name: str\n    year: int\n    description: str\nparser = PydanticOutputParser(pydantic_object=MovieInfo)\nprompt = PromptTemplate(\n    template=\" give details of 3 recently released movies \\n{format_instructions}\",\n    input_variables=[],\n    partial_variables={\"format_instructions\": parser.get_format_instructions()},",
+        "detail": "Structured_Output.4_pydanticoutputparser",
+        "documentation": {}
+    },
+    {
+        "label": "parser",
+        "kind": 5,
+        "importPath": "Structured_Output.4_pydanticoutputparser",
+        "description": "Structured_Output.4_pydanticoutputparser",
+        "peekOfCode": "parser = PydanticOutputParser(pydantic_object=MovieInfo)\nprompt = PromptTemplate(\n    template=\" give details of 3 recently released movies \\n{format_instructions}\",\n    input_variables=[],\n    partial_variables={\"format_instructions\": parser.get_format_instructions()},\n)\nchain = prompt | model | parser\nresult = chain.invoke({})\nprint(result)",
+        "detail": "Structured_Output.4_pydanticoutputparser",
+        "documentation": {}
+    },
+    {
+        "label": "prompt",
+        "kind": 5,
+        "importPath": "Structured_Output.4_pydanticoutputparser",
+        "description": "Structured_Output.4_pydanticoutputparser",
+        "peekOfCode": "prompt = PromptTemplate(\n    template=\" give details of 3 recently released movies \\n{format_instructions}\",\n    input_variables=[],\n    partial_variables={\"format_instructions\": parser.get_format_instructions()},\n)\nchain = prompt | model | parser\nresult = chain.invoke({})\nprint(result)",
+        "detail": "Structured_Output.4_pydanticoutputparser",
+        "documentation": {}
+    },
+    {
+        "label": "chain",
+        "kind": 5,
+        "importPath": "Structured_Output.4_pydanticoutputparser",
+        "description": "Structured_Output.4_pydanticoutputparser",
+        "peekOfCode": "chain = prompt | model | parser\nresult = chain.invoke({})\nprint(result)",
+        "detail": "Structured_Output.4_pydanticoutputparser",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "kind": 5,
+        "importPath": "Structured_Output.4_pydanticoutputparser",
+        "description": "Structured_Output.4_pydanticoutputparser",
+        "peekOfCode": "result = chain.invoke({})\nprint(result)",
+        "detail": "Structured_Output.4_pydanticoutputparser",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "Structured_Output.normalOutput",
+        "description": "Structured_Output.normalOutput",
+        "peekOfCode": "model = ChatGoogleGenerativeAI(model=\"gemini-2.5-flash\")\ntemplate1 = PromptTemplate(\n    template=\"write a detailed report on {topic}\", input_variables=[\"topic\"]\n)\ntemplate2 = PromptTemplate(\n    template=\"write 5 lines summary of the report.\\n {text}\", input_variables=[\"text\"]\n)\nprompt1 = template1.invoke({\"topic\": \"Artificial Intelligence\"})\nresult1 = model.invoke(prompt1)\nprompt2 = template2.invoke({\"text\": result1.content})",
+        "detail": "Structured_Output.normalOutput",
+        "documentation": {}
+    },
+    {
+        "label": "template1",
+        "kind": 5,
+        "importPath": "Structured_Output.normalOutput",
+        "description": "Structured_Output.normalOutput",
+        "peekOfCode": "template1 = PromptTemplate(\n    template=\"write a detailed report on {topic}\", input_variables=[\"topic\"]\n)\ntemplate2 = PromptTemplate(\n    template=\"write 5 lines summary of the report.\\n {text}\", input_variables=[\"text\"]\n)\nprompt1 = template1.invoke({\"topic\": \"Artificial Intelligence\"})\nresult1 = model.invoke(prompt1)\nprompt2 = template2.invoke({\"text\": result1.content})\nresult2 = model.invoke(prompt2)",
+        "detail": "Structured_Output.normalOutput",
+        "documentation": {}
+    },
+    {
+        "label": "template2",
+        "kind": 5,
+        "importPath": "Structured_Output.normalOutput",
+        "description": "Structured_Output.normalOutput",
+        "peekOfCode": "template2 = PromptTemplate(\n    template=\"write 5 lines summary of the report.\\n {text}\", input_variables=[\"text\"]\n)\nprompt1 = template1.invoke({\"topic\": \"Artificial Intelligence\"})\nresult1 = model.invoke(prompt1)\nprompt2 = template2.invoke({\"text\": result1.content})\nresult2 = model.invoke(prompt2)\nprint(result2.content)",
+        "detail": "Structured_Output.normalOutput",
+        "documentation": {}
+    },
+    {
+        "label": "prompt1",
+        "kind": 5,
+        "importPath": "Structured_Output.normalOutput",
+        "description": "Structured_Output.normalOutput",
+        "peekOfCode": "prompt1 = template1.invoke({\"topic\": \"Artificial Intelligence\"})\nresult1 = model.invoke(prompt1)\nprompt2 = template2.invoke({\"text\": result1.content})\nresult2 = model.invoke(prompt2)\nprint(result2.content)",
+        "detail": "Structured_Output.normalOutput",
+        "documentation": {}
+    },
+    {
+        "label": "result1",
+        "kind": 5,
+        "importPath": "Structured_Output.normalOutput",
+        "description": "Structured_Output.normalOutput",
+        "peekOfCode": "result1 = model.invoke(prompt1)\nprompt2 = template2.invoke({\"text\": result1.content})\nresult2 = model.invoke(prompt2)\nprint(result2.content)",
+        "detail": "Structured_Output.normalOutput",
+        "documentation": {}
+    },
+    {
+        "label": "prompt2",
+        "kind": 5,
+        "importPath": "Structured_Output.normalOutput",
+        "description": "Structured_Output.normalOutput",
+        "peekOfCode": "prompt2 = template2.invoke({\"text\": result1.content})\nresult2 = model.invoke(prompt2)\nprint(result2.content)",
+        "detail": "Structured_Output.normalOutput",
+        "documentation": {}
+    },
+    {
+        "label": "result2",
+        "kind": 5,
+        "importPath": "Structured_Output.normalOutput",
+        "description": "Structured_Output.normalOutput",
+        "peekOfCode": "result2 = model.invoke(prompt2)\nprint(result2.content)",
+        "detail": "Structured_Output.normalOutput",
+        "documentation": {}
+    },
+    {
+        "label": "Movie",
+        "kind": 6,
+        "importPath": "Structured_Output.withPydantic",
+        "description": "Structured_Output.withPydantic",
+        "peekOfCode": "class Movie(BaseModel):\n    title: str = Field(..., description=\"The title of the movie\")\n    year: int = Field(..., description=\"The release year of the movie\")\n    description: str = Field(..., description=\"Description of movie\")\nmodel = ChatGoogleGenerativeAI(model=\"gemini-2.5-flash\")\nstructured_result = model.with_structured_output(Movie)\nresult = structured_result.invoke(\"Tell me a 5 most famous and good movie of 2026\")\nprint(result.title)\nprint(result.year)\nprint(result.description)",
+        "detail": "Structured_Output.withPydantic",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "Structured_Output.withPydantic",
+        "description": "Structured_Output.withPydantic",
+        "peekOfCode": "model = ChatGoogleGenerativeAI(model=\"gemini-2.5-flash\")\nstructured_result = model.with_structured_output(Movie)\nresult = structured_result.invoke(\"Tell me a 5 most famous and good movie of 2026\")\nprint(result.title)\nprint(result.year)\nprint(result.description)",
+        "detail": "Structured_Output.withPydantic",
+        "documentation": {}
+    },
+    {
+        "label": "structured_result",
+        "kind": 5,
+        "importPath": "Structured_Output.withPydantic",
+        "description": "Structured_Output.withPydantic",
+        "peekOfCode": "structured_result = model.with_structured_output(Movie)\nresult = structured_result.invoke(\"Tell me a 5 most famous and good movie of 2026\")\nprint(result.title)\nprint(result.year)\nprint(result.description)",
+        "detail": "Structured_Output.withPydantic",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "kind": 5,
+        "importPath": "Structured_Output.withPydantic",
+        "description": "Structured_Output.withPydantic",
+        "peekOfCode": "result = structured_result.invoke(\"Tell me a 5 most famous and good movie of 2026\")\nprint(result.title)\nprint(result.year)\nprint(result.description)",
+        "detail": "Structured_Output.withPydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Movie",
+        "kind": 6,
+        "importPath": "Structured_Output.withTypedDict",
+        "description": "Structured_Output.withTypedDict",
+        "peekOfCode": "class Movie(TypedDict):\n    title: Annotated[str, \"The title of the movie\"]\n    year: Annotated[int, \"The release year of the movie\"]\n    description: Annotated[str, \"Description of movie\"]\nmodel = ChatGoogleGenerativeAI(model=\"gemini-2.5-flash\")\nstructured_result = model.with_structured_output(Movie)\nresult = structured_result.invoke(\"Tell me a 5 most famous and good movie of 2026\")\nprint(result)",
+        "detail": "Structured_Output.withTypedDict",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "Structured_Output.withTypedDict",
+        "description": "Structured_Output.withTypedDict",
+        "peekOfCode": "model = ChatGoogleGenerativeAI(model=\"gemini-2.5-flash\")\nstructured_result = model.with_structured_output(Movie)\nresult = structured_result.invoke(\"Tell me a 5 most famous and good movie of 2026\")\nprint(result)",
+        "detail": "Structured_Output.withTypedDict",
+        "documentation": {}
+    },
+    {
+        "label": "structured_result",
+        "kind": 5,
+        "importPath": "Structured_Output.withTypedDict",
+        "description": "Structured_Output.withTypedDict",
+        "peekOfCode": "structured_result = model.with_structured_output(Movie)\nresult = structured_result.invoke(\"Tell me a 5 most famous and good movie of 2026\")\nprint(result)",
+        "detail": "Structured_Output.withTypedDict",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "kind": 5,
+        "importPath": "Structured_Output.withTypedDict",
+        "description": "Structured_Output.withTypedDict",
+        "peekOfCode": "result = structured_result.invoke(\"Tell me a 5 most famous and good movie of 2026\")\nprint(result)",
+        "detail": "Structured_Output.withTypedDict",
         "documentation": {}
     }
 ]
