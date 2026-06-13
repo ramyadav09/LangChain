@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 from langchain_core.prompts import PromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 
-load_dotenv()
+load_dotenv(dotenv_path=r"C:\Users\KIIT\OneDrive\Desktop\GenAI\.env")
 
 model = ChatGoogleGenerativeAI(model="gemini-2.5-flash")
 parser = StrOutputParser()
