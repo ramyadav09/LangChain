@@ -1,5 +1,405 @@
 [
     {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "PromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "PromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "ChatPromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "ChatPromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "MessagesPlaceholder",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "PromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "PromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "PromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "PromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "PromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "PromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "PromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "PromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "StrOutputParser",
+        "importPath": "langchain_core.output_parsers",
+        "description": "langchain_core.output_parsers",
+        "isExtraImport": true,
+        "detail": "langchain_core.output_parsers",
+        "documentation": {}
+    },
+    {
+        "label": "StrOutputParser",
+        "importPath": "langchain_core.output_parsers",
+        "description": "langchain_core.output_parsers",
+        "isExtraImport": true,
+        "detail": "langchain_core.output_parsers",
+        "documentation": {}
+    },
+    {
+        "label": "StrOutputParser",
+        "importPath": "langchain_core.output_parsers",
+        "description": "langchain_core.output_parsers",
+        "isExtraImport": true,
+        "detail": "langchain_core.output_parsers",
+        "documentation": {}
+    },
+    {
+        "label": "StrOutputParser",
+        "importPath": "langchain_core.output_parsers",
+        "description": "langchain_core.output_parsers",
+        "isExtraImport": true,
+        "detail": "langchain_core.output_parsers",
+        "documentation": {}
+    },
+    {
+        "label": "JsonOutputParser",
+        "importPath": "langchain_core.output_parsers",
+        "description": "langchain_core.output_parsers",
+        "isExtraImport": true,
+        "detail": "langchain_core.output_parsers",
+        "documentation": {}
+    },
+    {
+        "label": "PydanticOutputParser",
+        "importPath": "langchain_core.output_parsers",
+        "description": "langchain_core.output_parsers",
+        "isExtraImport": true,
+        "detail": "langchain_core.output_parsers",
+        "documentation": {}
+    },
+    {
         "label": "ChatOpenAI",
         "importPath": "langchain_openai",
         "description": "langchain_openai",
@@ -13,206 +413,6 @@
         "description": "langchain_openai",
         "isExtraImport": true,
         "detail": "langchain_openai",
-        "documentation": {}
-    },
-    {
-        "label": "load_dotenv",
-        "importPath": "dotenv",
-        "description": "dotenv",
-        "isExtraImport": true,
-        "detail": "dotenv",
-        "documentation": {}
-    },
-    {
-        "label": "load_dotenv",
-        "importPath": "dotenv",
-        "description": "dotenv",
-        "isExtraImport": true,
-        "detail": "dotenv",
-        "documentation": {}
-    },
-    {
-        "label": "load_dotenv",
-        "importPath": "dotenv",
-        "description": "dotenv",
-        "isExtraImport": true,
-        "detail": "dotenv",
-        "documentation": {}
-    },
-    {
-        "label": "load_dotenv",
-        "importPath": "dotenv",
-        "description": "dotenv",
-        "isExtraImport": true,
-        "detail": "dotenv",
-        "documentation": {}
-    },
-    {
-        "label": "load_dotenv",
-        "importPath": "dotenv",
-        "description": "dotenv",
-        "isExtraImport": true,
-        "detail": "dotenv",
-        "documentation": {}
-    },
-    {
-        "label": "load_dotenv",
-        "importPath": "dotenv",
-        "description": "dotenv",
-        "isExtraImport": true,
-        "detail": "dotenv",
-        "documentation": {}
-    },
-    {
-        "label": "load_dotenv",
-        "importPath": "dotenv",
-        "description": "dotenv",
-        "isExtraImport": true,
-        "detail": "dotenv",
-        "documentation": {}
-    },
-    {
-        "label": "load_dotenv",
-        "importPath": "dotenv",
-        "description": "dotenv",
-        "isExtraImport": true,
-        "detail": "dotenv",
-        "documentation": {}
-    },
-    {
-        "label": "load_dotenv",
-        "importPath": "dotenv",
-        "description": "dotenv",
-        "isExtraImport": true,
-        "detail": "dotenv",
-        "documentation": {}
-    },
-    {
-        "label": "load_dotenv",
-        "importPath": "dotenv",
-        "description": "dotenv",
-        "isExtraImport": true,
-        "detail": "dotenv",
-        "documentation": {}
-    },
-    {
-        "label": "load_dotenv",
-        "importPath": "dotenv",
-        "description": "dotenv",
-        "isExtraImport": true,
-        "detail": "dotenv",
-        "documentation": {}
-    },
-    {
-        "label": "load_dotenv",
-        "importPath": "dotenv",
-        "description": "dotenv",
-        "isExtraImport": true,
-        "detail": "dotenv",
-        "documentation": {}
-    },
-    {
-        "label": "load_dotenv",
-        "importPath": "dotenv",
-        "description": "dotenv",
-        "isExtraImport": true,
-        "detail": "dotenv",
-        "documentation": {}
-    },
-    {
-        "label": "load_dotenv",
-        "importPath": "dotenv",
-        "description": "dotenv",
-        "isExtraImport": true,
-        "detail": "dotenv",
-        "documentation": {}
-    },
-    {
-        "label": "ChatGoogleGenerativeAI",
-        "importPath": "langchain_google_genai",
-        "description": "langchain_google_genai",
-        "isExtraImport": true,
-        "detail": "langchain_google_genai",
-        "documentation": {}
-    },
-    {
-        "label": "ChatGoogleGenerativeAI",
-        "importPath": "langchain_google_genai",
-        "description": "langchain_google_genai",
-        "isExtraImport": true,
-        "detail": "langchain_google_genai",
-        "documentation": {}
-    },
-    {
-        "label": "ChatGoogleGenerativeAI",
-        "importPath": "langchain_google_genai",
-        "description": "langchain_google_genai",
-        "isExtraImport": true,
-        "detail": "langchain_google_genai",
-        "documentation": {}
-    },
-    {
-        "label": "ChatGoogleGenerativeAI",
-        "importPath": "langchain_google_genai",
-        "description": "langchain_google_genai",
-        "isExtraImport": true,
-        "detail": "langchain_google_genai",
-        "documentation": {}
-    },
-    {
-        "label": "ChatGoogleGenerativeAI",
-        "importPath": "langchain_google_genai",
-        "description": "langchain_google_genai",
-        "isExtraImport": true,
-        "detail": "langchain_google_genai",
-        "documentation": {}
-    },
-    {
-        "label": "ChatGoogleGenerativeAI",
-        "importPath": "langchain_google_genai",
-        "description": "langchain_google_genai",
-        "isExtraImport": true,
-        "detail": "langchain_google_genai",
-        "documentation": {}
-    },
-    {
-        "label": "ChatGoogleGenerativeAI",
-        "importPath": "langchain_google_genai",
-        "description": "langchain_google_genai",
-        "isExtraImport": true,
-        "detail": "langchain_google_genai",
-        "documentation": {}
-    },
-    {
-        "label": "ChatGoogleGenerativeAI",
-        "importPath": "langchain_google_genai",
-        "description": "langchain_google_genai",
-        "isExtraImport": true,
-        "detail": "langchain_google_genai",
-        "documentation": {}
-    },
-    {
-        "label": "ChatGoogleGenerativeAI",
-        "importPath": "langchain_google_genai",
-        "description": "langchain_google_genai",
-        "isExtraImport": true,
-        "detail": "langchain_google_genai",
-        "documentation": {}
-    },
-    {
-        "label": "ChatGoogleGenerativeAI",
-        "importPath": "langchain_google_genai",
-        "description": "langchain_google_genai",
-        "isExtraImport": true,
-        "detail": "langchain_google_genai",
-        "documentation": {}
-    },
-    {
-        "label": "ChatGoogleGenerativeAI",
-        "importPath": "langchain_google_genai",
-        "description": "langchain_google_genai",
-        "isExtraImport": true,
-        "detail": "langchain_google_genai",
         "documentation": {}
     },
     {
@@ -344,86 +544,6 @@
         "documentation": {}
     },
     {
-        "label": "ChatPromptTemplate",
-        "importPath": "langchain_core.prompts",
-        "description": "langchain_core.prompts",
-        "isExtraImport": true,
-        "detail": "langchain_core.prompts",
-        "documentation": {}
-    },
-    {
-        "label": "ChatPromptTemplate",
-        "importPath": "langchain_core.prompts",
-        "description": "langchain_core.prompts",
-        "isExtraImport": true,
-        "detail": "langchain_core.prompts",
-        "documentation": {}
-    },
-    {
-        "label": "MessagesPlaceholder",
-        "importPath": "langchain_core.prompts",
-        "description": "langchain_core.prompts",
-        "isExtraImport": true,
-        "detail": "langchain_core.prompts",
-        "documentation": {}
-    },
-    {
-        "label": "PromptTemplate",
-        "importPath": "langchain_core.prompts",
-        "description": "langchain_core.prompts",
-        "isExtraImport": true,
-        "detail": "langchain_core.prompts",
-        "documentation": {}
-    },
-    {
-        "label": "PromptTemplate",
-        "importPath": "langchain_core.prompts",
-        "description": "langchain_core.prompts",
-        "isExtraImport": true,
-        "detail": "langchain_core.prompts",
-        "documentation": {}
-    },
-    {
-        "label": "PromptTemplate",
-        "importPath": "langchain_core.prompts",
-        "description": "langchain_core.prompts",
-        "isExtraImport": true,
-        "detail": "langchain_core.prompts",
-        "documentation": {}
-    },
-    {
-        "label": "PromptTemplate",
-        "importPath": "langchain_core.prompts",
-        "description": "langchain_core.prompts",
-        "isExtraImport": true,
-        "detail": "langchain_core.prompts",
-        "documentation": {}
-    },
-    {
-        "label": "PromptTemplate",
-        "importPath": "langchain_core.prompts",
-        "description": "langchain_core.prompts",
-        "isExtraImport": true,
-        "detail": "langchain_core.prompts",
-        "documentation": {}
-    },
-    {
-        "label": "PromptTemplate",
-        "importPath": "langchain_core.prompts",
-        "description": "langchain_core.prompts",
-        "isExtraImport": true,
-        "detail": "langchain_core.prompts",
-        "documentation": {}
-    },
-    {
-        "label": "PromptTemplate",
-        "importPath": "langchain_core.prompts",
-        "description": "langchain_core.prompts",
-        "isExtraImport": true,
-        "detail": "langchain_core.prompts",
-        "documentation": {}
-    },
-    {
         "label": "FastAPI",
         "importPath": "fastapi",
         "description": "fastapi",
@@ -488,27 +608,28 @@
         "documentation": {}
     },
     {
-        "label": "StrOutputParser",
-        "importPath": "langchain_core.output_parsers",
-        "description": "langchain_core.output_parsers",
+        "label": "random",
+        "kind": 6,
         "isExtraImport": true,
-        "detail": "langchain_core.output_parsers",
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
         "documentation": {}
     },
     {
-        "label": "JsonOutputParser",
-        "importPath": "langchain_core.output_parsers",
-        "description": "langchain_core.output_parsers",
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
         "isExtraImport": true,
-        "detail": "langchain_core.output_parsers",
+        "detail": "abc",
         "documentation": {}
     },
     {
-        "label": "PydanticOutputParser",
-        "importPath": "langchain_core.output_parsers",
-        "description": "langchain_core.output_parsers",
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
         "isExtraImport": true,
-        "detail": "langchain_core.output_parsers",
+        "detail": "abc",
         "documentation": {}
     },
     {
@@ -541,6 +662,105 @@
         "description": "typing",
         "isExtraImport": true,
         "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "chains.sequential",
+        "description": "chains.sequential",
+        "peekOfCode": "model = ChatGoogleGenerativeAI(model=\"gemini-2.5-flash\")\nparser = StrOutputParser()\nprompt1 = PromptTemplate(\n    template=\"generate a detailed report on topic\\n {topic}\",\n    input_variables=[\"topic\"],\n)\nprompt2 = PromptTemplate(\n    template=\"generate 5 pointer summary in the given text\\n {text}\",\n    input_variables=[\"text\"],\n)",
+        "detail": "chains.sequential",
+        "documentation": {}
+    },
+    {
+        "label": "parser",
+        "kind": 5,
+        "importPath": "chains.sequential",
+        "description": "chains.sequential",
+        "peekOfCode": "parser = StrOutputParser()\nprompt1 = PromptTemplate(\n    template=\"generate a detailed report on topic\\n {topic}\",\n    input_variables=[\"topic\"],\n)\nprompt2 = PromptTemplate(\n    template=\"generate 5 pointer summary in the given text\\n {text}\",\n    input_variables=[\"text\"],\n)\nchain = prompt1 | model | parser | prompt2 | model | parser",
+        "detail": "chains.sequential",
+        "documentation": {}
+    },
+    {
+        "label": "prompt1",
+        "kind": 5,
+        "importPath": "chains.sequential",
+        "description": "chains.sequential",
+        "peekOfCode": "prompt1 = PromptTemplate(\n    template=\"generate a detailed report on topic\\n {topic}\",\n    input_variables=[\"topic\"],\n)\nprompt2 = PromptTemplate(\n    template=\"generate 5 pointer summary in the given text\\n {text}\",\n    input_variables=[\"text\"],\n)\nchain = prompt1 | model | parser | prompt2 | model | parser\nresult = chain.invoke({\"topic\": \"Artificial Intelligence\"})",
+        "detail": "chains.sequential",
+        "documentation": {}
+    },
+    {
+        "label": "prompt2",
+        "kind": 5,
+        "importPath": "chains.sequential",
+        "description": "chains.sequential",
+        "peekOfCode": "prompt2 = PromptTemplate(\n    template=\"generate 5 pointer summary in the given text\\n {text}\",\n    input_variables=[\"text\"],\n)\nchain = prompt1 | model | parser | prompt2 | model | parser\nresult = chain.invoke({\"topic\": \"Artificial Intelligence\"})\nprint(result)\nchain.get_graph().print_ascii()",
+        "detail": "chains.sequential",
+        "documentation": {}
+    },
+    {
+        "label": "chain",
+        "kind": 5,
+        "importPath": "chains.sequential",
+        "description": "chains.sequential",
+        "peekOfCode": "chain = prompt1 | model | parser | prompt2 | model | parser\nresult = chain.invoke({\"topic\": \"Artificial Intelligence\"})\nprint(result)\nchain.get_graph().print_ascii()",
+        "detail": "chains.sequential",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "kind": 5,
+        "importPath": "chains.sequential",
+        "description": "chains.sequential",
+        "peekOfCode": "result = chain.invoke({\"topic\": \"Artificial Intelligence\"})\nprint(result)\nchain.get_graph().print_ascii()",
+        "detail": "chains.sequential",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "chains.simple",
+        "description": "chains.simple",
+        "peekOfCode": "model = ChatGoogleGenerativeAI(model=\"gemini-2.5-flash\")\nparser = StrOutputParser()\ntemplate = PromptTemplate(\n    template=\"give me a json format output of a movie with name,year and description when i ask for {topic}\",\n    input_variables=[\"topic\"],\n)\nchain = template | model | parser\nresult = chain.invoke({\"topic\": \"Artificial Intelligence\"})\nprint(result)\nchain.get_graph().print_ascii()",
+        "detail": "chains.simple",
+        "documentation": {}
+    },
+    {
+        "label": "parser",
+        "kind": 5,
+        "importPath": "chains.simple",
+        "description": "chains.simple",
+        "peekOfCode": "parser = StrOutputParser()\ntemplate = PromptTemplate(\n    template=\"give me a json format output of a movie with name,year and description when i ask for {topic}\",\n    input_variables=[\"topic\"],\n)\nchain = template | model | parser\nresult = chain.invoke({\"topic\": \"Artificial Intelligence\"})\nprint(result)\nchain.get_graph().print_ascii()",
+        "detail": "chains.simple",
+        "documentation": {}
+    },
+    {
+        "label": "template",
+        "kind": 5,
+        "importPath": "chains.simple",
+        "description": "chains.simple",
+        "peekOfCode": "template = PromptTemplate(\n    template=\"give me a json format output of a movie with name,year and description when i ask for {topic}\",\n    input_variables=[\"topic\"],\n)\nchain = template | model | parser\nresult = chain.invoke({\"topic\": \"Artificial Intelligence\"})\nprint(result)\nchain.get_graph().print_ascii()",
+        "detail": "chains.simple",
+        "documentation": {}
+    },
+    {
+        "label": "chain",
+        "kind": 5,
+        "importPath": "chains.simple",
+        "description": "chains.simple",
+        "peekOfCode": "chain = template | model | parser\nresult = chain.invoke({\"topic\": \"Artificial Intelligence\"})\nprint(result)\nchain.get_graph().print_ascii()",
+        "detail": "chains.simple",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "kind": 5,
+        "importPath": "chains.simple",
+        "description": "chains.simple",
+        "peekOfCode": "result = chain.invoke({\"topic\": \"Artificial Intelligence\"})\nprint(result)\nchain.get_graph().print_ascii()",
+        "detail": "chains.simple",
         "documentation": {}
     },
     {
@@ -757,6 +977,258 @@
         "description": "Prompt.template",
         "peekOfCode": "prompt = PromptTemplate(\n    input_variables=[\"topic\", \"level\", \"question\"],\n    template=\"\"\"\nExplain the topic: {topic}\nDifficulty Level:\n{level}\nQuestion:\n{question}\n\"\"\",\n)",
         "detail": "Prompt.template",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "Runnable.Primitive_Runnable.sequential",
+        "description": "Runnable.Primitive_Runnable.sequential",
+        "peekOfCode": "model = ChatGoogleGenerativeAI(model=\"gemini-2.5-flash\")\nparser = StrOutputParser()\nprompt1 = PromptTemplate(\n    template=\"generate a detailed report on topic\\n {topic}\",\n    input_variables=[\"topic\"],\n)\nprompt2 = PromptTemplate(\n    template=\"generate 5 pointer summary in the given text\\n {text}\",\n    input_variables=[\"text\"],\n)",
+        "detail": "Runnable.Primitive_Runnable.sequential",
+        "documentation": {}
+    },
+    {
+        "label": "parser",
+        "kind": 5,
+        "importPath": "Runnable.Primitive_Runnable.sequential",
+        "description": "Runnable.Primitive_Runnable.sequential",
+        "peekOfCode": "parser = StrOutputParser()\nprompt1 = PromptTemplate(\n    template=\"generate a detailed report on topic\\n {topic}\",\n    input_variables=[\"topic\"],\n)\nprompt2 = PromptTemplate(\n    template=\"generate 5 pointer summary in the given text\\n {text}\",\n    input_variables=[\"text\"],\n)\nchain = prompt1 | model | parser | prompt2 | model | parser",
+        "detail": "Runnable.Primitive_Runnable.sequential",
+        "documentation": {}
+    },
+    {
+        "label": "prompt1",
+        "kind": 5,
+        "importPath": "Runnable.Primitive_Runnable.sequential",
+        "description": "Runnable.Primitive_Runnable.sequential",
+        "peekOfCode": "prompt1 = PromptTemplate(\n    template=\"generate a detailed report on topic\\n {topic}\",\n    input_variables=[\"topic\"],\n)\nprompt2 = PromptTemplate(\n    template=\"generate 5 pointer summary in the given text\\n {text}\",\n    input_variables=[\"text\"],\n)\nchain = prompt1 | model | parser | prompt2 | model | parser\nresult = chain.invoke({\"topic\": \"Artificial Intelligence\"})",
+        "detail": "Runnable.Primitive_Runnable.sequential",
+        "documentation": {}
+    },
+    {
+        "label": "prompt2",
+        "kind": 5,
+        "importPath": "Runnable.Primitive_Runnable.sequential",
+        "description": "Runnable.Primitive_Runnable.sequential",
+        "peekOfCode": "prompt2 = PromptTemplate(\n    template=\"generate 5 pointer summary in the given text\\n {text}\",\n    input_variables=[\"text\"],\n)\nchain = prompt1 | model | parser | prompt2 | model | parser\nresult = chain.invoke({\"topic\": \"Artificial Intelligence\"})\nprint(result)\nchain.get_graph().print_ascii()",
+        "detail": "Runnable.Primitive_Runnable.sequential",
+        "documentation": {}
+    },
+    {
+        "label": "chain",
+        "kind": 5,
+        "importPath": "Runnable.Primitive_Runnable.sequential",
+        "description": "Runnable.Primitive_Runnable.sequential",
+        "peekOfCode": "chain = prompt1 | model | parser | prompt2 | model | parser\nresult = chain.invoke({\"topic\": \"Artificial Intelligence\"})\nprint(result)\nchain.get_graph().print_ascii()",
+        "detail": "Runnable.Primitive_Runnable.sequential",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "kind": 5,
+        "importPath": "Runnable.Primitive_Runnable.sequential",
+        "description": "Runnable.Primitive_Runnable.sequential",
+        "peekOfCode": "result = chain.invoke({\"topic\": \"Artificial Intelligence\"})\nprint(result)\nchain.get_graph().print_ascii()",
+        "detail": "Runnable.Primitive_Runnable.sequential",
+        "documentation": {}
+    },
+    {
+        "label": "Naklillm",
+        "kind": 6,
+        "importPath": "Runnable.01_naklillm",
+        "description": "Runnable.01_naklillm",
+        "peekOfCode": "class Naklillm:\n    def __init__(self):\n        print(\"Naklillm model initialized.\")\n    def generate_text(self, prompt):\n        response_list=['Kathmandu is capital of Nepal.','NPL is cricket team of Nepal.','Nepal is a beautiful country.']\n        return {'response': random.choice(response_list)}\nllm=Naklillm()\nprompt=\"What is the capital of Nepal?\"\n# print(llm.generate_text(prompt))",
+        "detail": "Runnable.01_naklillm",
+        "documentation": {}
+    },
+    {
+        "label": "Naklillm",
+        "kind": 6,
+        "importPath": "Runnable.02_nakliPromptTemplate",
+        "description": "Runnable.02_nakliPromptTemplate",
+        "peekOfCode": "class Naklillm:\n    def __init__(self):\n        print(\"Naklillm model initialized.\")\n    def predict(self, prompt):\n        response_list = [\n            \"Kathmandu is capital of Nepal.\",\n            \"NPL is cricket team of Nepal.\",\n            \"Nepal is a beautiful country.\",\n        ]\n        return {\"response\": random.choice(response_list)}",
+        "detail": "Runnable.02_nakliPromptTemplate",
+        "documentation": {}
+    },
+    {
+        "label": "NakliPromptTemplate",
+        "kind": 6,
+        "importPath": "Runnable.02_nakliPromptTemplate",
+        "description": "Runnable.02_nakliPromptTemplate",
+        "peekOfCode": "class NakliPromptTemplate:\n    def __init__(self,template,input_variables):\n        self.template=template\n        self.input_variables=input_variables\n    def format(self,input_dict):\n       return self.template.format(**input_dict)\ntemplate=\"What is the capital of {country}?\"\ninput_variables=['country']\ntemplate = NakliPromptTemplate(template=template, input_variables=input_variables)\nprompt=template.format({\"country\": \"Nepal\"})",
+        "detail": "Runnable.02_nakliPromptTemplate",
+        "documentation": {}
+    },
+    {
+        "label": "template",
+        "kind": 5,
+        "importPath": "Runnable.02_nakliPromptTemplate",
+        "description": "Runnable.02_nakliPromptTemplate",
+        "peekOfCode": "template = NakliPromptTemplate(template=template, input_variables=input_variables)\nprompt=template.format({\"country\": \"Nepal\"})\nllm=Naklillm()\nprint(llm.predict(prompt))",
+        "detail": "Runnable.02_nakliPromptTemplate",
+        "documentation": {}
+    },
+    {
+        "label": "Naklillm",
+        "kind": 6,
+        "importPath": "Runnable.03_naklichain",
+        "description": "Runnable.03_naklichain",
+        "peekOfCode": "class Naklillm:\n    def __init__(self):\n        print(\"Naklillm model initialized.\")\n    def predict(self, prompt):\n        response_list = [\n            \"Kathmandu is capital of Nepal.\",\n            \"NPL is cricket team of Nepal.\",\n            \"Nepal is a beautiful country.\",\n        ]\n        return {\"response\": random.choice(response_list)}",
+        "detail": "Runnable.03_naklichain",
+        "documentation": {}
+    },
+    {
+        "label": "NakliPromptTemplate",
+        "kind": 6,
+        "importPath": "Runnable.03_naklichain",
+        "description": "Runnable.03_naklichain",
+        "peekOfCode": "class NakliPromptTemplate:\n    def __init__(self, template, input_variables):\n        self.template = template\n        self.input_variables = input_variables\n    def format(self, input_dict):\n        return self.template.format(**input_dict)\ntemplate = NakliPromptTemplate(template=\"What is the capital of {country}?\", input_variables=[\"country\"])\n# prompt = template.format({\"country\": \"Nepal\"})\nllm = Naklillm()\n# print(llm.predict(prompt))",
+        "detail": "Runnable.03_naklichain",
+        "documentation": {}
+    },
+    {
+        "label": "NakliLLMChain",
+        "kind": 6,
+        "importPath": "Runnable.03_naklichain",
+        "description": "Runnable.03_naklichain",
+        "peekOfCode": "class NakliLLMChain:\n    def __init__(self, llm, prompt):\n        self.llm = llm\n        self.prompt = prompt\n    def run(self, input_dict):\n        final_prompt = self.prompt.format(input_dict)\n        result = self.llm.predict(final_prompt)\n        return result[\"response\"]\nchain = NakliLLMChain(llm=llm, prompt=template)\nprint(chain.run({\"country\": \"Nepal\"}))",
+        "detail": "Runnable.03_naklichain",
+        "documentation": {}
+    },
+    {
+        "label": "template",
+        "kind": 5,
+        "importPath": "Runnable.03_naklichain",
+        "description": "Runnable.03_naklichain",
+        "peekOfCode": "template = NakliPromptTemplate(template=\"What is the capital of {country}?\", input_variables=[\"country\"])\n# prompt = template.format({\"country\": \"Nepal\"})\nllm = Naklillm()\n# print(llm.predict(prompt))\nclass NakliLLMChain:\n    def __init__(self, llm, prompt):\n        self.llm = llm\n        self.prompt = prompt\n    def run(self, input_dict):\n        final_prompt = self.prompt.format(input_dict)",
+        "detail": "Runnable.03_naklichain",
+        "documentation": {}
+    },
+    {
+        "label": "llm",
+        "kind": 5,
+        "importPath": "Runnable.03_naklichain",
+        "description": "Runnable.03_naklichain",
+        "peekOfCode": "llm = Naklillm()\n# print(llm.predict(prompt))\nclass NakliLLMChain:\n    def __init__(self, llm, prompt):\n        self.llm = llm\n        self.prompt = prompt\n    def run(self, input_dict):\n        final_prompt = self.prompt.format(input_dict)\n        result = self.llm.predict(final_prompt)\n        return result[\"response\"]",
+        "detail": "Runnable.03_naklichain",
+        "documentation": {}
+    },
+    {
+        "label": "chain",
+        "kind": 5,
+        "importPath": "Runnable.03_naklichain",
+        "description": "Runnable.03_naklichain",
+        "peekOfCode": "chain = NakliLLMChain(llm=llm, prompt=template)\nprint(chain.run({\"country\": \"Nepal\"}))\n# This code defines a simple language model (Naklillm) that generates random responses based on a prompt. It also defines a prompt template (NakliPromptTemplate) that can format prompts with input variables. Finally, it defines a chain (NakliLLMChain) that combines the language model and the prompt template to generate responses based on formatted prompts.\n#there is a problem we can't create 2 step of chains because the output of one chain is not in the format of input of another chain. We need to modify the code to allow chaining multiple steps together.",
+        "detail": "Runnable.03_naklichain",
+        "documentation": {}
+    },
+    {
+        "label": "Runnable",
+        "kind": 6,
+        "importPath": "Runnable.04_Runnable",
+        "description": "Runnable.04_Runnable",
+        "peekOfCode": "class Runnable(ABC):\n    @abstractmethod\n    def invoke(input_data):\n        pass\nclass Naklillm(Runnable):\n    def __init__(self):\n        pass\n    def invoke(self, prompt):\n        response_list = [\n            \"Kathmandu is capital of Nepal.\",",
+        "detail": "Runnable.04_Runnable",
+        "documentation": {}
+    },
+    {
+        "label": "Naklillm",
+        "kind": 6,
+        "importPath": "Runnable.04_Runnable",
+        "description": "Runnable.04_Runnable",
+        "peekOfCode": "class Naklillm(Runnable):\n    def __init__(self):\n        pass\n    def invoke(self, prompt):\n        response_list = [\n            \"Kathmandu is capital of Nepal.\",\n            \"NPL is cricket team of Nepal.\",\n            \"Nepal is a beautiful country.\",\n        ]\n        return {\"response\": random.choice(response_list)}",
+        "detail": "Runnable.04_Runnable",
+        "documentation": {}
+    },
+    {
+        "label": "NakliPromptTemplate",
+        "kind": 6,
+        "importPath": "Runnable.04_Runnable",
+        "description": "Runnable.04_Runnable",
+        "peekOfCode": "class NakliPromptTemplate(Runnable):\n    def __init__(self, template, input_variables):\n        self.template = template\n        self.input_variables = input_variables\n    def invoke(self, input_dict):\n        return self.template.format(**input_dict)\n    # def invoke(self, input_dict):\n    #     return self.template.format(**input_dict)\nclass NakliStrOutputParser(Runnable):\n    def __init__(self):",
+        "detail": "Runnable.04_Runnable",
+        "documentation": {}
+    },
+    {
+        "label": "NakliStrOutputParser",
+        "kind": 6,
+        "importPath": "Runnable.04_Runnable",
+        "description": "Runnable.04_Runnable",
+        "peekOfCode": "class NakliStrOutputParser(Runnable):\n    def __init__(self):\n        pass\n    def invoke(self, input_dict):\n        return input_dict[\"response\"]\nclass RunnableConnector(Runnable):\n    def __init__(self, runnable_list):\n        self.runnable_list = runnable_list\n    def invoke(self, input_data):\n        data = input_data",
+        "detail": "Runnable.04_Runnable",
+        "documentation": {}
+    },
+    {
+        "label": "RunnableConnector",
+        "kind": 6,
+        "importPath": "Runnable.04_Runnable",
+        "description": "Runnable.04_Runnable",
+        "peekOfCode": "class RunnableConnector(Runnable):\n    def __init__(self, runnable_list):\n        self.runnable_list = runnable_list\n    def invoke(self, input_data):\n        data = input_data\n        for runnable in self.runnable_list:\n            data = runnable.invoke(data)\n        return data\nllm = Naklillm()\nparser = NakliStrOutputParser()",
+        "detail": "Runnable.04_Runnable",
+        "documentation": {}
+    },
+    {
+        "label": "llm",
+        "kind": 5,
+        "importPath": "Runnable.04_Runnable",
+        "description": "Runnable.04_Runnable",
+        "peekOfCode": "llm = Naklillm()\nparser = NakliStrOutputParser()\n# template = NakliPromptTemplate(template=\"What is the capital of {country}?\", input_variables=[\"country\"])\n# chain = RunnableConnector([template, llm,parser])\n# print(chain.invoke({\"country\": \"Nepal\"}))\ntemplate1 = NakliPromptTemplate(\n    template=\"Write a joke about {topic}\", input_variables=[\"topic\"]\n)\ntemplate2 = NakliPromptTemplate(\n    template=\"Explain the following joke {response}\", input_variables=[\"response\"]",
+        "detail": "Runnable.04_Runnable",
+        "documentation": {}
+    },
+    {
+        "label": "parser",
+        "kind": 5,
+        "importPath": "Runnable.04_Runnable",
+        "description": "Runnable.04_Runnable",
+        "peekOfCode": "parser = NakliStrOutputParser()\n# template = NakliPromptTemplate(template=\"What is the capital of {country}?\", input_variables=[\"country\"])\n# chain = RunnableConnector([template, llm,parser])\n# print(chain.invoke({\"country\": \"Nepal\"}))\ntemplate1 = NakliPromptTemplate(\n    template=\"Write a joke about {topic}\", input_variables=[\"topic\"]\n)\ntemplate2 = NakliPromptTemplate(\n    template=\"Explain the following joke {response}\", input_variables=[\"response\"]\n)",
+        "detail": "Runnable.04_Runnable",
+        "documentation": {}
+    },
+    {
+        "label": "template1",
+        "kind": 5,
+        "importPath": "Runnable.04_Runnable",
+        "description": "Runnable.04_Runnable",
+        "peekOfCode": "template1 = NakliPromptTemplate(\n    template=\"Write a joke about {topic}\", input_variables=[\"topic\"]\n)\ntemplate2 = NakliPromptTemplate(\n    template=\"Explain the following joke {response}\", input_variables=[\"response\"]\n)\nchain1 = RunnableConnector([template1, llm])\n# print(chain1.invoke({\"topic\": \"programming\"}))\nchain2 = RunnableConnector([template2, llm, parser])\n# print(chain2.invoke({\"response\": chain1.invoke({\"topic\": \"programming\"})}))",
+        "detail": "Runnable.04_Runnable",
+        "documentation": {}
+    },
+    {
+        "label": "template2",
+        "kind": 5,
+        "importPath": "Runnable.04_Runnable",
+        "description": "Runnable.04_Runnable",
+        "peekOfCode": "template2 = NakliPromptTemplate(\n    template=\"Explain the following joke {response}\", input_variables=[\"response\"]\n)\nchain1 = RunnableConnector([template1, llm])\n# print(chain1.invoke({\"topic\": \"programming\"}))\nchain2 = RunnableConnector([template2, llm, parser])\n# print(chain2.invoke({\"response\": chain1.invoke({\"topic\": \"programming\"})}))\nfinal_chain = RunnableConnector([chain1, chain2])\nprint(final_chain.invoke({\"topic\": \"programming\"}))",
+        "detail": "Runnable.04_Runnable",
+        "documentation": {}
+    },
+    {
+        "label": "chain1",
+        "kind": 5,
+        "importPath": "Runnable.04_Runnable",
+        "description": "Runnable.04_Runnable",
+        "peekOfCode": "chain1 = RunnableConnector([template1, llm])\n# print(chain1.invoke({\"topic\": \"programming\"}))\nchain2 = RunnableConnector([template2, llm, parser])\n# print(chain2.invoke({\"response\": chain1.invoke({\"topic\": \"programming\"})}))\nfinal_chain = RunnableConnector([chain1, chain2])\nprint(final_chain.invoke({\"topic\": \"programming\"}))",
+        "detail": "Runnable.04_Runnable",
+        "documentation": {}
+    },
+    {
+        "label": "chain2",
+        "kind": 5,
+        "importPath": "Runnable.04_Runnable",
+        "description": "Runnable.04_Runnable",
+        "peekOfCode": "chain2 = RunnableConnector([template2, llm, parser])\n# print(chain2.invoke({\"response\": chain1.invoke({\"topic\": \"programming\"})}))\nfinal_chain = RunnableConnector([chain1, chain2])\nprint(final_chain.invoke({\"topic\": \"programming\"}))",
+        "detail": "Runnable.04_Runnable",
+        "documentation": {}
+    },
+    {
+        "label": "final_chain",
+        "kind": 5,
+        "importPath": "Runnable.04_Runnable",
+        "description": "Runnable.04_Runnable",
+        "peekOfCode": "final_chain = RunnableConnector([chain1, chain2])\nprint(final_chain.invoke({\"topic\": \"programming\"}))",
+        "detail": "Runnable.04_Runnable",
         "documentation": {}
     },
     {
