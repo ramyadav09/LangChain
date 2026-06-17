@@ -112,11 +112,11 @@
         "documentation": {}
     },
     {
-        "label": "load_dotenv",
-        "importPath": "dotenv",
-        "description": "dotenv",
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
         "isExtraImport": true,
-        "detail": "dotenv",
+        "detail": "langchain_google_genai",
         "documentation": {}
     },
     {
@@ -245,6 +245,30 @@
         "description": "dotenv",
         "isExtraImport": true,
         "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "PromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
         "documentation": {}
     },
     {
@@ -384,6 +408,14 @@
         "documentation": {}
     },
     {
+        "label": "StrOutputParser",
+        "importPath": "langchain_core.output_parsers",
+        "description": "langchain_core.output_parsers",
+        "isExtraImport": true,
+        "detail": "langchain_core.output_parsers",
+        "documentation": {}
+    },
+    {
         "label": "JsonOutputParser",
         "importPath": "langchain_core.output_parsers",
         "description": "langchain_core.output_parsers",
@@ -445,6 +477,46 @@
         "description": "langchain_huggingface",
         "isExtraImport": true,
         "detail": "langchain_huggingface",
+        "documentation": {}
+    },
+    {
+        "label": "TextLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "PyPDFLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "DirectoryLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "PyPDFLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "WebBaseLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
         "documentation": {}
     },
     {
@@ -824,6 +896,114 @@
         "description": "ChatModels.OpenSource.01_hf_api",
         "peekOfCode": "result = chat_model.invoke(\"What is the capital of Nepal?\")\nprint(result.content)",
         "detail": "ChatModels.OpenSource.01_hf_api",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "Doc_Loader.01_textloader",
+        "description": "Doc_Loader.01_textloader",
+        "peekOfCode": "model = ChatGoogleGenerativeAI(model=\"gemini-2.5-flash\")\nparser = StrOutputParser()\nprompt = PromptTemplate(\n    template=\"generate a summary on poem\\n {poem}\",\n    input_variables=[\"poem\"],\n)\nchain = prompt | model | parser\nloader = TextLoader(\"poem.txt\", encoding=\"utf-8\")\ndocs = loader.load()\nprint(chain.invoke({\"poem\": docs[0].page_content}))",
+        "detail": "Doc_Loader.01_textloader",
+        "documentation": {}
+    },
+    {
+        "label": "parser",
+        "kind": 5,
+        "importPath": "Doc_Loader.01_textloader",
+        "description": "Doc_Loader.01_textloader",
+        "peekOfCode": "parser = StrOutputParser()\nprompt = PromptTemplate(\n    template=\"generate a summary on poem\\n {poem}\",\n    input_variables=[\"poem\"],\n)\nchain = prompt | model | parser\nloader = TextLoader(\"poem.txt\", encoding=\"utf-8\")\ndocs = loader.load()\nprint(chain.invoke({\"poem\": docs[0].page_content}))",
+        "detail": "Doc_Loader.01_textloader",
+        "documentation": {}
+    },
+    {
+        "label": "prompt",
+        "kind": 5,
+        "importPath": "Doc_Loader.01_textloader",
+        "description": "Doc_Loader.01_textloader",
+        "peekOfCode": "prompt = PromptTemplate(\n    template=\"generate a summary on poem\\n {poem}\",\n    input_variables=[\"poem\"],\n)\nchain = prompt | model | parser\nloader = TextLoader(\"poem.txt\", encoding=\"utf-8\")\ndocs = loader.load()\nprint(chain.invoke({\"poem\": docs[0].page_content}))",
+        "detail": "Doc_Loader.01_textloader",
+        "documentation": {}
+    },
+    {
+        "label": "chain",
+        "kind": 5,
+        "importPath": "Doc_Loader.01_textloader",
+        "description": "Doc_Loader.01_textloader",
+        "peekOfCode": "chain = prompt | model | parser\nloader = TextLoader(\"poem.txt\", encoding=\"utf-8\")\ndocs = loader.load()\nprint(chain.invoke({\"poem\": docs[0].page_content}))",
+        "detail": "Doc_Loader.01_textloader",
+        "documentation": {}
+    },
+    {
+        "label": "loader",
+        "kind": 5,
+        "importPath": "Doc_Loader.01_textloader",
+        "description": "Doc_Loader.01_textloader",
+        "peekOfCode": "loader = TextLoader(\"poem.txt\", encoding=\"utf-8\")\ndocs = loader.load()\nprint(chain.invoke({\"poem\": docs[0].page_content}))",
+        "detail": "Doc_Loader.01_textloader",
+        "documentation": {}
+    },
+    {
+        "label": "docs",
+        "kind": 5,
+        "importPath": "Doc_Loader.01_textloader",
+        "description": "Doc_Loader.01_textloader",
+        "peekOfCode": "docs = loader.load()\nprint(chain.invoke({\"poem\": docs[0].page_content}))",
+        "detail": "Doc_Loader.01_textloader",
+        "documentation": {}
+    },
+    {
+        "label": "loader",
+        "kind": 5,
+        "importPath": "Doc_Loader.02_pypdfloader",
+        "description": "Doc_Loader.02_pypdfloader",
+        "peekOfCode": "loader = PyPDFLoader(\"ppp.pdf\")\ndocs = loader.load()\nprint(docs[1])\nprint(docs[0].metadata)",
+        "detail": "Doc_Loader.02_pypdfloader",
+        "documentation": {}
+    },
+    {
+        "label": "docs",
+        "kind": 5,
+        "importPath": "Doc_Loader.02_pypdfloader",
+        "description": "Doc_Loader.02_pypdfloader",
+        "peekOfCode": "docs = loader.load()\nprint(docs[1])\nprint(docs[0].metadata)",
+        "detail": "Doc_Loader.02_pypdfloader",
+        "documentation": {}
+    },
+    {
+        "label": "loader",
+        "kind": 5,
+        "importPath": "Doc_Loader.03_directoryloader",
+        "description": "Doc_Loader.03_directoryloader",
+        "peekOfCode": "loader = DirectoryLoader(path=\"books\", glob=\"*.pdf\", loader_cls=PyPDFLoader)\n# docs = loader.load()\n# print(len(docs))\ndocs = loader.lazy_load()\nfor doc in docs:\n    print(doc.page_content)",
+        "detail": "Doc_Loader.03_directoryloader",
+        "documentation": {}
+    },
+    {
+        "label": "docs",
+        "kind": 5,
+        "importPath": "Doc_Loader.03_directoryloader",
+        "description": "Doc_Loader.03_directoryloader",
+        "peekOfCode": "docs = loader.lazy_load()\nfor doc in docs:\n    print(doc.page_content)",
+        "detail": "Doc_Loader.03_directoryloader",
+        "documentation": {}
+    },
+    {
+        "label": "loader",
+        "kind": 5,
+        "importPath": "Doc_Loader.04_webbaseloader",
+        "description": "Doc_Loader.04_webbaseloader",
+        "peekOfCode": "loader = WebBaseLoader(\"https://news.google.com/home?hl=en-US&gl=US&ceid=US:en\")\ndocs = loader.load()\nprint(docs.metadata)",
+        "detail": "Doc_Loader.04_webbaseloader",
+        "documentation": {}
+    },
+    {
+        "label": "docs",
+        "kind": 5,
+        "importPath": "Doc_Loader.04_webbaseloader",
+        "description": "Doc_Loader.04_webbaseloader",
+        "peekOfCode": "docs = loader.load()\nprint(docs.metadata)",
+        "detail": "Doc_Loader.04_webbaseloader",
         "documentation": {}
     },
     {
