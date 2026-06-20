@@ -1,17 +1,15 @@
 from langchain_experimental.text_splitter import SemanticChunker
-from langchain_google_genai import GoogleGenerativeAIEmbeddings
+from langchain_huggingface import HuggingFaceEmbeddings
 
-from dotenv import load_dotenv
+model_name = "sentence-transformers/all-MiniLM-L6-v2"
 
-load_dotenv()
-embeddings = GoogleGenerativeAIEmbeddings(model="models/text-embedding-004")
-
+embeddings = HuggingFaceEmbeddings(model_name=model_name)
 
 # Create the semantic splitter instance
 text_splitter = SemanticChunker(
     embeddings=embeddings,
     breakpoint_threshold_type="percentile",  # Type of threshold used to split
-    breakpoint_threshold_amount=85.0,  # Splitting sensitivity parameter
+    breakpoint_threshold_amount=85.0,  # Splitting sensitivity parameter,
 )
 
 # Your target continuous text block
