@@ -1,7 +1,5 @@
 .env
 .vscode/
 myenv/
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
+Prompt/myenv/
+vector_store/
