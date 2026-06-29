@@ -13,3 +13,6 @@ transformers==5.6.2
 wikipedia==1.4.0
 sentence-transformers
 langchain-chroma
+langchain_tools
+duckduckgo-search
+ddgs
